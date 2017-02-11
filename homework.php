@@ -1,6 +1,7 @@
 <?php
 
-    echo '<h3>Домашнее задание №6</h3>'.'<hr>';
+    echo '<h3>Домашнее задание №6</h3>';
+    echo 'от 06.02.2017'.'<hr>';
     //Main - Сумма аргументов
     function summ () {
         $args = func_get_args ();
